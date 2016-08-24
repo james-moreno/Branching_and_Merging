@@ -1,0 +1,15 @@
+#container {
+    width: 600px;
+    padding: 10px;
+    background: black;
+}
+h1, p {
+    color: white;
+}
+img {
+    text-align: center;
+    width: 290px;
+    height: 200px;
+    border: 2px solid gray;
+    margin: 2px;
+}
