@@ -1,0 +1,7 @@
+https://github.com/james-moreno/Branching_and_Merging
+
+I branched and merged but closed the command line before realizing I needed 
+it as proof of doing the work.
+
+Please check the URL to see the project on GITHUB and take my word that I 
+am capable of branching and mergin the changes from the branch back into the master.
